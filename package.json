@@ -30,7 +30,7 @@
     "gulp-sourcemaps": "^2.6.0",
     "gulp-uglify": "^2.1.2",
     "jstat": "^1.5.3",
-    "mathjs": "^3.12.3",
+    "mathjs": "^15.2.0",
     "should": "^11.2.1"
   },
   "scripts": {
